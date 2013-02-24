@@ -1,7 +1,8 @@
 ambassador
 ==========
 
-getambassador.com API wrapper
+PHP wrapper for v2 of the [Ambassador](https://getambassador.com/) API.
+Ambassador is maintaining an official fork of my wrapper [here](https://github.com/GetAmbassador/ambassador).
 
 Example usage:
 
